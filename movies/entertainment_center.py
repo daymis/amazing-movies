@@ -11,13 +11,13 @@ hidden_figures = media.Movie("Hidden Figures",
 
 #Split
 split = media.Movie("Split",
-"Chris reads his girlfriend's family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+"Compelled to abduct three teenage girls, Kevin reaches a war for survival among all of those contained within him - as well as everyone around him - as the walls between his compartments shatter apart.",
 "http://t0.gstatic.com/images?q=tbn:ANd9GcQxZKPueKzPFNEc1Un4x2TecYop4yrTVArVtfgrNzktMqbfehfv",
 "https://www.youtube.com/watch?v=84TouqfIsiI")
 
 #Get Out
 get_out = media.Movie("Get Out",
-"When mysterious spacecrafts touch down across the globe, an elite team - lead by expert linguist Louise Banks - is brought together to investigate.",
+"At first, Chris reads his girlfriend's family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
 "https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg",
 "https://www.youtube.com/watch?v=sRfnevzM9kQ")
 
